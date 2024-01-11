@@ -4,11 +4,15 @@ Esta es una aplicación de ToDo List simple implementada en Spring Boot con oper
 Configuración del Proyecto
 
 Requisitos
-Java 8 o superior
-Maven
+1. Java 8 o superior
+2. Maven
 
 Para clonar el repositorio 
 git clone https://github.com/juansm1664/CRUD-todolist.git
+
+- IDE usado Intellij
+
+- Use Postman para testear HTTP requests
 
 Para compilar y ejecutar
 1. Se necesita clonar el repositorio
