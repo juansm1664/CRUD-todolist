@@ -1,5 +1,5 @@
 ToDo List App (Spring Boot CRUD)
-Esta es una aplicación de ToDo List simple implementada en Spring Boot con operaciones CRUD básicas.
+Esta es una aplicación de ToDo List implementada en Spring Boot con operaciones CRUD básicas.
 
 Configuración del Proyecto
 
